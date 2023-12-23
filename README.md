@@ -32,7 +32,7 @@ I'm Ji Opark, a vibrant data scientist with a passion for transforming mathemati
 ### Let's Connect!
 💬 Interested in collaborating on innovative projects or have a question about the world of data? Feel free to reach out! Let's embark on a data driven journey together.
 
-###  Fun Fact
+### Fun Fact
 ⚡ Did you know? I believe that data is not just numbers; it's a narrative waiting to be told. Let's craft compelling stories from the data canvas!
 
 Looking forward to connecting with you! 🌟
